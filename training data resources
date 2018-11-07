@@ -19,5 +19,5 @@ A 1988 Fiero GT w/ rare T-Tops - https://www.youtube.com/watch?v=u7okvsUjYA4&t=5
 
 
 After downloading each video, they were run through ffmpeg to create enough jpg images for effective retraining. 
-Currently, the files for the training data exceeds the 25MB file size limit. 
+Currently, the files for the training data exceeds the 25MB file size limit (The total size of the training data is 323 MB). 
 Also, this list excludes a few trim levels as there is not enough usable videos/images for them. 
