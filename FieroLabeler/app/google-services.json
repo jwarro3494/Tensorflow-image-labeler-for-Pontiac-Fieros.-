@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "736591868984",
+    "firebase_url": "https://fiero-labeler.firebaseio.com",
+    "project_id": "fiero-labeler",
+    "storage_bucket": "fiero-labeler.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736591868984:android:d1cd47059dec98a2",
+        "android_client_info": {
+          "package_name": "ung.csci.fierolabeler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736591868984-ttjainghcn3n51l835247slrrtbqpea7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI50fxMTp4uepkqx4-HCfAmNrorv5l12E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

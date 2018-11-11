@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fiero Labeler</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_live_controller">Live Labeler</string>
+</resources>
