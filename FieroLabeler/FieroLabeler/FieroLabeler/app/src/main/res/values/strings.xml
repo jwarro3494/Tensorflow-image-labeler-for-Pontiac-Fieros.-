@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Fiero Labeler</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_live_controller">Live Labeler</string>
+    <string name="selectedFieroImage">Selected Fiero Image</string>
+    <string name="image1">image 1</string>
+    <string name="image2">image 2</string>
+    <string name="image3">image 3</string>
+    <string name="labelButton">label this image</string>
+    <string name="labelingProcess">Labeling image… please wait</string>
+    <string name="onFail">Oops… something went wrong.</string>
+    <string name="result">Device result:</string>
+    <string name="labelingFailure">failed! %s</string>
+    <string name="deviceResult">Device result: %s %s</string>
+    <string name="labelingFailure1">BufferedReader Fail! %s</string>
+    <string name="labelingFailure3">Something else went wrong! %s</string>
+    <string name="labelingFailure4">Interpreter is null!</string>
+</resources>
