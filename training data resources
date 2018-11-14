@@ -1,0 +1,23 @@
+My 1987 Fiero Base Model - https://www.youtube.com/watch?v=ZSu7ADiBkN4&feature=youtu.be
+
+A 1984 Fiero SE - https://www.youtube.com/watch?v=rou6xtg2ERY&t=1s
+
+A 1985 Fiero GT - https://www.youtube.com/watch?v=AW6_DtpmZxY&t=0s&list=LLRbsPc_JHejlJbgVrPDY4CA&index=4
+
+A 1986 Fiero SE - https://www.youtube.com/watch?v=KPUvKmSKNXs&index=2&list=LLRbsPc_JHejlJbgVrPDY4CA&t=1s
+
+A 1986 Fiero GT - https://www.youtube.com/watch?v=g27EdMCj7YM&t=0s&list=LLRbsPc_JHejlJbgVrPDY4CA&index=3
+
+A 1987 Fiero GT - https://www.youtube.com/watch?v=-Ao0goLqQQE&t=0s&list=LLRbsPc_JHejlJbgVrPDY4CA&index=7
+
+A 1988 Fiero Base Model - https://www.youtube.com/watch?v=jmWrIz1BHbI&t=0s&list=LLRbsPc_JHejlJbgVrPDY4CA&index=10
+
+A 1988 Fiero Formula - https://www.youtube.com/watch?v=XcFZB4Om-xc&t=20s&list=LLRbsPc_JHejlJbgVrPDY4CA&index=6
+
+A 1988 Fiero GT w/ rare T-Tops - https://www.youtube.com/watch?v=u7okvsUjYA4&t=5s&list=LLRbsPc_JHejlJbgVrPDY4CA&index=9
+
+
+
+After downloading each video, they were run through ffmpeg to create enough jpg images for effective retraining. 
+Currently, the files for the training data exceeds the 25MB file size limit (The total size of the training data is 323 MB). 
+Also, this list excludes a few trim levels as there is not enough usable videos/images for them. 
